@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5F5F387-A180-4BF8-B364-66D25132996E</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3bd3454b-6c0d-4974-9e17-83887f6225a5</key>
+		<string>https://pl5.projectlocker.com/36cubed/Reusable_Components_iOS/svn</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3bd3454b-6c0d-4974-9e17-83887f6225a5</key>
+		<string></string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3bd3454b-6c0d-4974-9e17-83887f6225a5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3bd3454b-6c0d-4974-9e17-83887f6225a5</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3bd3454b-6c0d-4974-9e17-83887f6225a5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NetworkingSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
